@@ -1,4 +1,4 @@
-// Package ascii -- provides ACSII-only character functions.
+// Package ascii -- provides ASCII-only character functions.
 package ascii
 
 // Codepoint -- returns true iff `c` is an ASCII character.
